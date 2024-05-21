@@ -10,9 +10,9 @@ export const RESUME_DATA = {
   summary:
     "As a recent graduate, I am currently working on different personal projects to improve my skills and knowledge in software development. I am always looking for new opportunities to learn and grow as a developer.",
   avatarUrl: "https://media.licdn.com/dms/image/C5603AQHr55yRz4O6XA/profile-displayphoto-shrink_800_800/0/1650486831051?e=1721865600&v=beta&t=hlUIqxr3iYO1Gwf4dgK9JBpXlyc69H5H6untVU-JFLE",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://simonromerocv.vercel.app/",
   contact: {
-    email: "simonr.romero001@gmail.com",
+    email: "simon.romero001@gmail.com",
     tel: "+15597706112",
     social: [
       {
