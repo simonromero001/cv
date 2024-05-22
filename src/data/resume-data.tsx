@@ -6,7 +6,7 @@ export const RESUME_DATA = {
   location: "Clovis, California, USA",
   locationLink: "https://www.google.com/maps/place/Clovis,+CA",
   about:
-    "Recent graduate focused on building products with extra attention to detail",
+    "Recent graduate focused on building products and learning new technologies",
   summary:
     "As a recent graduate, I am currently working on different personal projects to improve my skills and knowledge in software development. I am always looking for new opportunities to learn and grow as a developer.",
   avatarUrl:
