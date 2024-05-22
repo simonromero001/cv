@@ -9,7 +9,8 @@ export const RESUME_DATA = {
     "Recent graduate focused on building products with extra attention to detail",
   summary:
     "As a recent graduate, I am currently working on different personal projects to improve my skills and knowledge in software development. I am always looking for new opportunities to learn and grow as a developer.",
-  avatarUrl: "https://media.licdn.com/dms/image/C5603AQHr55yRz4O6XA/profile-displayphoto-shrink_800_800/0/1650486831051?e=1721865600&v=beta&t=hlUIqxr3iYO1Gwf4dgK9JBpXlyc69H5H6untVU-JFLE",
+  avatarUrl:
+    "https://media.licdn.com/dms/image/C5603AQHr55yRz4O6XA/profile-displayphoto-shrink_800_800/0/1650486831051?e=1721865600&v=beta&t=hlUIqxr3iYO1Gwf4dgK9JBpXlyc69H5H6untVU-JFLE",
   personalWebsiteUrl: "https://simonromerocv.vercel.app/",
   contact: {
     email: "simon.romero001@gmail.com",
@@ -58,7 +59,7 @@ export const RESUME_DATA = {
     "Unreal Engine",
     "Unity",
     "Trello",
-    "AWS"
+    "AWS",
   ],
   projects: [
     {
@@ -80,12 +81,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Hololearn",
-      techStack: [
-        "TypeScript",
-        "Next.js",
-        "MongoDB",
-        "Figma",
-      ],
+      techStack: ["TypeScript", "Next.js", "MongoDB", "Figma"],
       description: "Guess the vocab using Hololive clips",
       link: {
         label: "github.com/simonromero001/Hololearn",
@@ -93,13 +89,17 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "Cadence",
+      techStack: ["TypeScript", "Next.js", "Express.js", "Figma"],
+      description: "Meet new people with similar music tastes",
+      link: {
+        label: "github.com/A2AxPhoenix/Cadence_Project",
+        href: "https://github.com/A2AxPhoenix/Cadence_Project",
+      },
+    },
+    {
       title: "CSCI-130-Checkers",
-      techStack: [
-        "HTML/CSS",
-        "JavaScript",
-        "PHP",
-        "MySQL",
-      ],
+      techStack: ["HTML/CSS", "JavaScript", "PHP", "MySQL"],
       description: "Checkers!",
       link: {
         label: "github.com/simonromero001/CSCI-130-Checkers",
@@ -108,12 +108,7 @@ export const RESUME_DATA = {
     },
     {
       title: "CSCI-130-Data-Browser",
-      techStack: [
-        "HTML/CSS",
-        "JavaScript",
-        "PHP",
-        "MySQL",
-      ],
+      techStack: ["HTML/CSS", "JavaScript", "PHP", "MySQL"],
       description: "A data browser for a database",
       link: {
         label: "github.com/simonromero001/CSCI-130-Data-Browser",
@@ -122,9 +117,7 @@ export const RESUME_DATA = {
     },
     {
       title: "itch.io Games",
-      techStack: [
-        "Unity",
-      ],
+      techStack: ["Unity"],
       description: "A collection of games I made",
       link: {
         label: "qubert48.itch.io",
