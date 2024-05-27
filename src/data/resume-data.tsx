@@ -80,6 +80,23 @@ export const RESUME_DATA = {
       },
     },
     {
+      title: "One Piece TCG Pack Opener",
+      techStack: [
+        "TypeScript",
+        "Next.js",
+        "MongoDB",
+        "Heroku",
+        "AWS",
+        "Vercel",
+        "Figma",
+      ],
+      description: "Open One Piece TCG packs!",
+      link: {
+        label: "onepack.vercel.app/",
+        href: "https://onepack.vercel.app/",
+      },
+    },
+    {
       title: "Hololearn",
       techStack: ["TypeScript", "Next.js", "MongoDB", "Figma"],
       description: "Guess the vocab using Hololive clips",
